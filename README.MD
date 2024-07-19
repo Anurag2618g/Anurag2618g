@@ -35,7 +35,10 @@ I'm always eager to learn and improve. Currently diving deeper into practices an
 
 📫 **How to Reach Me:**
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anurag-gupta-77b701215/).
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />](https://www.linkedin.com/in/anurag-gupta-77b701215/)
+[<a href="https://twitter.com/YOUR_PROFILE" target="_blank" title="Twitter">
+    <img src="https://img.icons8.com/ios-filled/40/000000/x.png" alt="Twitter X" style="background-color: white; width: 35px; margin-bottom: 5px;" />
+</a>](https://x.com/Anurag2618G)
 
 
 <!-- GitHub Stats Section Here -->
