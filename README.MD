@@ -1,8 +1,9 @@
 # Heyy there,  I'm Anurag ...👋
 
 <p align="center">
-  <img src="2075466.jpg" alt="logo" width="200px" style="border-radius: 50%;">
+  <img src="2075466.jpg" alt="logo" width="200px" style="border-radius: 50%;" />
 </p>
+
 
 <h2>
 I'm a budding web developer with a growing passion for full stack development. I’m excited about learning new skills and creating digital solutions from scratch. I enjoy taking on challenges and bringing my ideas to life through code.
