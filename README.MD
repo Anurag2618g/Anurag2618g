@@ -1,15 +1,18 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Heyy there, I'm Anurag ...👋</h1>
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="2075466.jpg" alt="logo" width="200px" style="border-radius: 50%; margin-right: 20px;">
-    <div style="border: 2px solid #0e75b6; padding: 20px; border-radius: 10px;">
-      <h2>
-        I'm a budding web developer with a growing passion for full stack development. I’m excited about learning new skills and creating digital solutions from scratch. I enjoy taking on challenges and bringing my ideas to life through code.
-      </h2>
-    </div>
-  </div>
+<p align="center">
+  <img src="code2.gif" alt="logo" width="500px" />
+</p>
+
+<p align="center">
+  <span style="border: 2px solid #0e75b6; padding: 20px; border-radius: 10px; display: inline-block;">
+    <strong>
+      I'm a budding web developer with a growing passion for full stack development. I’m excited about learning new skills and creating digital solutions from scratch. I enjoy taking on challenges and bringing my ideas to life through code.
+    </strong>
+  </span>
+</p>
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=Anurag2618g&label=Profile%20views&color=0e75b6&style=flat" alt="deeptesh-rout" />
   </p>
@@ -54,12 +57,11 @@
 - 🔭 **Exploring Advanced Web Development:** Expanding my skills and knowledge in web development to tackle more complex projects.
 - 🌱 **Deepening My Understanding:** Delving deeper into web technologies and best practices to enhance my development capabilities.
 - 👨‍💻 **Showcasing My Projects:** You can view all my work and ongoing projects at [my GitHub profile](https://github.com/Anurag2618g).
-- 📫 **How to Reach Me:** <a href="https://www.linkedin.com/in/anurag-gupta-77b701215/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=20" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/Anurag2618G" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&height=20" alt="Twitter"/>
-</a>
+📫 **How to Reach Me:** 
+<a href="https://www.linkedin.com/in/anurag-gupta-77b701215/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 20px; vertical-align: middle;" /></a>
+<a href="https://x.com/Anurag2618G" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="height: 20px; vertical-align: middle;" /></a>
+
 
 Feel free to connect with me or explore my repositories!
 
