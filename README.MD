@@ -57,7 +57,7 @@
 - 🔭 **Exploring Advanced Web Development:** Expanding my skills and knowledge in web development to tackle more complex projects.
 - 🌱 **Deepening My Understanding:** Delving deeper into web technologies and best practices to enhance my development capabilities.
 - 👨‍💻 **Showcasing My Projects:** You can view all my work and ongoing projects at [my GitHub profile](https://github.com/Anurag2618g).
-📫 **How to Reach Me:** 
+- 📫 **How to Reach Me:** 
 <a href="https://www.linkedin.com/in/anurag-gupta-77b701215/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 20px; vertical-align: middle;" /></a>
 <a href="https://x.com/Anurag2618G" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="height: 20px; vertical-align: middle;" /></a>
