@@ -2,11 +2,7 @@
 <h1 align="center">Heyy there, I'm Anurag ...👋</h1>
 
 <p align="center">
-<<<<<<< HEAD
   <img src="code2.gif" alt="logo" width="500px" />
-=======
-  <img src="2075466.jpg" alt="logo" width="200px" style="border-radius: 50%;" />
->>>>>>> 8fd5e3213a7b24dfa49e25b85ea83f70b7a258c8
 </p>
 
 <p align="center">
