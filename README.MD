@@ -1,15 +1,18 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Heyy there, I'm Anurag ...👋</h1>
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="2075466.jpg" alt="logo" width="200px" style="border-radius: 50%; margin-right: 20px;">
-    <div style="border: 2px solid #0e75b6; padding: 20px; border-radius: 10px;">
-      <h2>
-        I'm a budding web developer with a growing passion for full stack development. I’m excited about learning new skills and creating digital solutions from scratch. I enjoy taking on challenges and bringing my ideas to life through code.
-      </h2>
-    </div>
-  </div>
+<p align="center">
+  <img src="2075466.jpg" alt="logo" width="200px" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
+  <span style="border: 2px solid #0e75b6; padding: 20px; border-radius: 10px; display: inline-block;">
+    <strong>
+      I'm a budding web developer with a growing passion for full stack development. I’m excited about learning new skills and creating digital solutions from scratch. I enjoy taking on challenges and bringing my ideas to life through code.
+    </strong>
+  </span>
+</p>
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=Anurag2618g&label=Profile%20views&color=0e75b6&style=flat" alt="deeptesh-rout" />
   </p>
