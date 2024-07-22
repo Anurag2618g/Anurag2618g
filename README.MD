@@ -2,11 +2,11 @@
 <h1 align="center">Heyy there, I'm Anurag ...👋</h1>
 
 <p align="center">
-  <img src="code2.gif" alt="logo" width="500px" />
+  <img src="code2.gif" alt="logo" width="600px" style="border: 2px solid #0e75b6; padding: 20px; border-radius: 10px; display: inline-block; />
 </p>
 
 <p align="center">
-  <span style="border: 2px solid #0e75b6; padding: 20px; border-radius: 10px; display: inline-block;">
+  <span></span>
     <strong>
       I'm a budding web developer with a growing passion for full stack development. I’m excited about learning new skills and creating digital solutions from scratch. I enjoy taking on challenges and bringing my ideas to life through code.
     </strong>
@@ -102,16 +102,6 @@ Feel free to connect with me or explore my repositories!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Loading GIF" style="display: block; margin: 0 auto;"/>
 
-
-<!-- Random Quote Section Here -->
-<h2 align="center">Wisdom Beyond the Pages</h2>
-<div align="center" style="font-weight: bold; font-style: italic;">
-    If Everything You Need Is In The Book, The Teacher Would Be Too Successful To Teach In The Classrooms
-</div>
-
-
-### A Little More About Me! 🧟‍♂️
-
 ```javascript
 const Anurag = {
   askMeAbout: ["Web Dev", "Tech", "Editing"],
@@ -130,3 +120,10 @@ const Anurag = {
 }
 ```
 <hr> 
+
+
+
+<!-- Random Quote Section Here -->
+<div align="center" style="font-weight: bold; font-style: italic;">
+    If Everything You Need Is In The Book, The Teacher Would Be Too Successful To Teach In The Classrooms
+</div>
