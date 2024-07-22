@@ -2,7 +2,7 @@
 <h1 align="center">Heyy there, I'm Anurag ...👋</h1>
 
 <p align="center">
-  <img src="code2.gif" alt="logo" width="600px" style="border: 2px solid #0e75b6; padding: 20px; border-radius: 10px; display: inline-block; />
+  <img src="code2.gif" alt="logo" width="600px" />
 </p>
 
 <p align="center">
