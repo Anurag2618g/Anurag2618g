@@ -80,7 +80,6 @@ Feel free to connect with me or explore my repositories!
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2618g&theme=transparent" alt="Anurag2618g" style="height: 180px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Anurag2618g&show_icons=true&theme=transparent" alt="Stats Card" style="height: 180px; margin: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag2618g&layout=compact&theme=transparent" alt="Top Languages" style="height: 180px; margin: 10px;"/>
 </div>
