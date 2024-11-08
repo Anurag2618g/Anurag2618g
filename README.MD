@@ -1,5 +1,5 @@
+
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Heyy there, I'm Anurag ...👋</h1>
 
 <p align="center">
   <img src="code2.gif" alt="logo" width="600px" />
@@ -8,7 +8,7 @@
 <p align="center">
   <span></span>
     <strong>
-      I'm a budding web developer with a growing passion for full stack development. I’m excited about learning new skills and creating digital solutions from scratch. I enjoy taking on challenges and bringing my ideas to life through code.
+      I'm a web developer 🧩 with a passion for crafting interactive and impactful digital experiences. I’m drawn to the fast-evolving world of blockchain and Web3, constantly experimenting with new tools and technologies to bring fresh ideas to life. For me, innovation is all about creating and discovering what's next in tech!
     </strong>
   </span>
 </p>
@@ -47,8 +47,6 @@
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
 </div>
 
-<hr>
-
 
 ## 🌱 Currently Learning
 
@@ -72,12 +70,8 @@ Feel free to connect with me or explore my repositories!
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Anurag2618g&theme=dark&no-frame=true&no-bg=false&margin-w=4)
-<hr>
-
 
 <!-- GitHub Stats Section Here -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Loading GIF" style="display: block; margin: 0 auto;"/>
 
 ## 📊 GitHub Stats
 
@@ -91,39 +85,9 @@ Feel free to connect with me or explore my repositories!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag2618g&layout=compact&theme=transparent" alt="Top Languages" style="height: 180px; margin: 10px;"/>
 </div>
 
-<div align="center"></br>
-<p align="center">
-  <kbd>
-    <img src="snake.svg" alt="Snake animation" />
-  </kbd>
-</p>
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Loading GIF" style="display: block; margin: 0 auto;"/>
-
-```javascript
-const Anurag = {
-  askMeAbout: ["Web Dev", "Tech", "Editing"],
-  code: [HTML, CSS, JavaScript, Node, Express],
-  tools: [Postman, Github, VsCode and other IDE's],
-  
-  hobbies: {
-               'Anime',
-               'Tech Enthusiast'
-               'Staying up all Night Chasing that ONE BUG...'
-           },
-
- challenge: ["I am Learning Full Stack Web Development"],
-
- lastButNotLeast: ["Updating Myself Virtually and in Reality"]
-}
-```
 <hr> 
 
-
-
 <!-- Random Quote Section Here -->
-<div align="center" style="font-weight: bold; font-style: italic;">
+<div align="center" style="font-weight: bold; font-style: italic; font-size: 18px">
     If Everything You Need Is In The Book, The Teacher Would Be Too Successful To Teach In The Classrooms
 </div>
