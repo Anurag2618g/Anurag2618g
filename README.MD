@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## <img src="https://img.icons8.com/nolan/64/monitor.png" width="32" /> System Briefing
+## <img src="https://img.icons8.com/nolan/64/layers.png" width="32" />System Briefing
 
 > **Full-stack Web Developer** building production-style applications with **Next.js, TypeScript, MongoDB, and JWT-based authentication**. I focus on backend logic, API design, secure auth flows, and clean frontend–backend separation. I care about how systems scale, how security fails, and how architecture decisions age over time.
 
@@ -66,7 +66,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## <img src="https://img.icons8.com/nolan/64/connect.png" width="32" /> Establish Connection
+## <img src="https://img.icons8.com/nolan/64/layers.png" width="32" />Establish Connection
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anurag-gupta-77b701215/" target="_blank">
