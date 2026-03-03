@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+Scalable+Systems;Secure+Auth+Flows+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;NextJS+%E2%80%A2+TypeScript+%E2%80%A2+NodeJS;Building+Scalable+Systems;Secure+Auth+Flows" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -57,10 +57,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag2618g&theme=tokyonight&title_color=7aa2f7" width="100%" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anurag2618g&theme=tokyonight&title_color=7aa2f7" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anurag2618g&theme=tokyonight&title_color=7aa2f7" width="49%" />
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -76,8 +76,4 @@
   <a href="https://x.com/Anurag2618G" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="50" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=7aa2f7&height=100&section=footer&theme=tokyonight" />
 </p>
