@@ -25,17 +25,17 @@
 ## <img src="https://img.icons8.com/nolan/64/module.png" width="32" /> Integrated Tech Stack
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="33%" valign="top" align="center">
+  <table border="0" width="100%">
+    <tr align="center">
+      <td width="33.3%" valign="top">
         <strong>Frontend Architecture</strong><br/><br/>
         <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,redux,sass&perline=3" />
       </td>
-      <td width="33%" valign="top" align="center">
+      <td width="33.3%" valign="top">
         <strong>Backend Core</strong><br/><br/>
         <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,docker&perline=3" />
       </td>
-      <td width="33%" valign="top" align="center">
+      <td width="33.3%" valign="top">
         <strong>Engineer Workflow</strong><br/><br/>
         <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma&perline=3" />
       </td>
@@ -47,32 +47,38 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## <img src="https://img.icons8.com/nolan/64/combo-chart.png" width="32" /> Performance Dashboard
+<!-- ## <img src="https://img.icons8.com/nolan/64/trophy.png" width="32" /> Achievements
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2618g&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakNum=7aa2f7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anurag2618g&theme=tokyonight&margin-w=4&margin-h=4" alt="github trophies" />
 </p>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag2618g&theme=tokyonight&title_color=7aa2f7" width="100%" />
-</div>
-
-<!-- <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anurag2618g&theme=tokyonight&title_color=7aa2f7" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anurag2618g&theme=tokyonight&title_color=7aa2f7" width="49%" />
-</div> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
+</p> -->
 
-## <img src="https://img.icons8.com/nolan/64/layers.png" width="32" />Establish Connection
 
-<p align="center">
+## <img src="https://img.icons8.com/nolan/64/combo-chart.png" width="32" /> Performance Dashboard
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="left">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag2618g&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakNum=7aa2f7" width="100%" />
+      </td>
+      <td width="50%" align="right">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag2618g&theme=tokyonight&title_color=7aa2f7" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+## <img src="https://img.icons8.com/nolan/64/layers.png" width="32" /> Establish Connection
+
+<p align="left">
   <a href="https://www.linkedin.com/in/anurag-gupta-77b701215/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Anurag2618G" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="50" />
   </a>
